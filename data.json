@@ -16,10 +16,10 @@
     },
     "AboutPage": {
         "AboutParagraph": "Highly motivated and skilled Android Developer with a strong foundation in Java and Kotlin, with a focus on creating intuitive user experiences. A natural communicator with a talent for building strong relationships with clients and colleagues. Seeking an opportunity to leverage my skills and grow as an Android Developer.",
-        "ImageLink": ""
+        "ImageLink": "https://www.linkpicture.com/q/WhatsApp-Image-2023-01-08-at-00.08.02.jpeg"
     },
     "Skills": [
-        "Java"
+        "Android","Java","Kotlin"
     ],
     "Projects": [
         {
